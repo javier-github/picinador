@@ -1,2 +1,2 @@
 # picinador
-Para Limpiar picinas sin muchas pretenciones 
+Para Limpiar piscinas sin muchas pretenciones 
