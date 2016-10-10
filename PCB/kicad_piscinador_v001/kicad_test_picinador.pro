@@ -1,4 +1,4 @@
-update=Fr 07 Okt 2016 18:48:44 CEST
+update=So 09 Okt 2016 22:23:39 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=Zilog
+LibName31=libraries/Common-Parts-Library-KiCad/Common-Parts-Library

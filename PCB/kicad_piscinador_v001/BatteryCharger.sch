@@ -44,4 +44,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Notes 3050 1800 0    60   ~ 12
+Battery charger
 $EndSCHEMATC
