@@ -1,7 +1,37 @@
+* GTD 
+** Next Task	
+	 - [ ] Battery charger plug and solar pannels
 * REF Projects
-____
-** REF Ideas
-____ 
+* Componets
+	- TEXAS INSTRUMENTS  BOOST-DRV8711  EVAL.BOARD, DRV8711 SCHRITTMOTOR-TREIBER Neu 
+		-file:DataSheets/2036052.pdf Boost driver for a motor
+	- EasyDriver Stepper Motor Driver
+		- Art.Nr.  SFE12779
+		- The EasyDriver V4.5 has an A3967 microstepping driver to control bi-polar motors,
+		- and motors wired as bi-polar. I.e. 4,6, or 8 wire stepper motors. EasyDriver requires
+		- a 6V to 30V supply to power the motor and can power any voltage of stepper motor.
+	- Stepper Motor - NEMA 16 form factor
+		- Art.Nr.  SFE09238
+		- This stepper motor is a great way to get things moving, especially when positioning and
+		- repeatability is a concern. This is a Bipolar motor.
+		- Step Angle (degrees) :1.8
+		- 2 Phase
+    - Rated Voltage : 12V
+    - Rated Current : 0.33A
+    - Holding Torque : 2.3kg*cm
+    - 5mm Diameter Drive Shaft
+    - NEMA 16 form factor
+
+	- Battery charger file:DataSheets/8490fa.pdf linear, to charge from solar panel or a DC farnell 17€
+  - Battery charger file:DataSheets/bq24650.pdf ti
+	- MIni PLC 	
+		- BARTH STA-600 Prozessmodul Starter-Kit ohne Display, 7 → 32 V dc, 1xPort COM, USB, 10 x Input, 8 x Output
+		- RS Best.-Nr. 864-4541
+			Marke BARTH
+			Herst. Teile-Nr. 0660-0600
+* Know how
+	- file:DataSheets/battery_discharge.pdf 
+	
 * REF WEB 
 https://de.farnell.com/
 
@@ -11,5 +41,3 @@ ____
 	- Smart glass 
 	- 
 ____ 
-
-
