@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:Zilog
+LIBS:Common-Parts-Library
 LIBS:kicad_test_picinador-cache
 EELAYER 25 0
 EELAYER END

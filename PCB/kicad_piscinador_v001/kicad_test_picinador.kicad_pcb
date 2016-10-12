@@ -1,15 +1,15 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.4+e1-6308~48~ubuntu14.04.1-stable)
 
   (general
-    (links 7)
+    (links 6)
     (no_connects 0)
     (area 132.004999 83.744999 180.415001 119.455001)
     (thickness 1.6)
     (drawings 5)
-    (tracks 57)
+    (tracks 48)
     (zones 0)
     (modules 2)
-    (nets 15)
+    (nets 16)
   )
 
   (page A4)
@@ -105,6 +105,7 @@
   (net 12 "Net-(U2-Pad4)")
   (net 13 "Net-(U1-Pad13)")
   (net 14 "Net-(U2-Pad13)")
+  (net 15 "Net-(U2-Pad8)")
 
   (net_class Default "This is the default net class."
     (clearance 0.2)
@@ -126,6 +127,7 @@
     (add_net "Net-(U2-Pad16)")
     (add_net "Net-(U2-Pad2)")
     (add_net "Net-(U2-Pad4)")
+    (add_net "Net-(U2-Pad8)")
     (add_net "Net-(U2-Pad9)")
   )
 
@@ -211,7 +213,7 @@
     (pad 9 smd rect (at 4.445 -2.6 90) (size 0.6 2.2) (layers F.Cu F.Paste F.Mask)
       (net 8 "Net-(U2-Pad9)"))
     (pad 8 smd rect (at 4.445 2.6 90) (size 0.6 2.2) (layers F.Cu F.Paste F.Mask)
-      (net 12 "Net-(U2-Pad4)"))
+      (net 15 "Net-(U2-Pad8)"))
   )
 
   (gr_line (start 132.08 86.36) (end 132.08 83.82) (angle 90) (layer Edge.Cuts) (width 0.15))
@@ -268,14 +270,5 @@
   (segment (start 154.94 106.68) (end 153.67 107.95) (width 0.25) (layer F.Cu) (net 11) (tstamp 57F7F703))
   (segment (start 154.94 97.79) (end 154.94 106.68) (width 0.25) (layer F.Cu) (net 11) (tstamp 57F7F700))
   (segment (start 154.305 97.155) (end 154.94 97.79) (width 0.25) (layer F.Cu) (net 11) (tstamp 57F7F6F6))
-  (segment (start 149.92 95.885) (end 151.765 95.885) (width 0.25) (layer F.Cu) (net 12) (status 400000))
-  (segment (start 151.765 100.965) (end 149.92 100.965) (width 0.25) (layer F.Cu) (net 12) (tstamp 57FA6C77) (status 800000))
-  (segment (start 152.4 101.6) (end 151.765 100.965) (width 0.25) (layer F.Cu) (net 12) (tstamp 57FA6C74))
-  (segment (start 152.4 100.33) (end 152.4 101.6) (width 0.25) (layer F.Cu) (net 12) (tstamp 57FA6C73))
-  (via (at 152.4 100.33) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 12))
-  (segment (start 152.4 97.79) (end 152.4 100.33) (width 0.25) (layer B.Cu) (net 12) (tstamp 57FA6C6A))
-  (segment (start 152.4 96.52) (end 152.4 97.79) (width 0.25) (layer B.Cu) (net 12) (tstamp 57FA6C69))
-  (via (at 152.4 96.52) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 12))
-  (segment (start 151.765 95.885) (end 152.4 96.52) (width 0.25) (layer F.Cu) (net 12) (tstamp 57FA6C62))
 
 )

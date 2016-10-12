@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:Zilog
+LIBS:Common-Parts-Library
 LIBS:kicad_test_picinador-cache
 EELAYER 25 0
 EELAYER END
@@ -44,6 +45,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 3050 1800 0    60   ~ 0
-Para cargar la bateria.
+Text Notes 3050 1800 0    60   ~ 12
+Battery charger
 $EndSCHEMATC
