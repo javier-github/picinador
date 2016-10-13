@@ -1,6 +1,7 @@
 * GTD 
 ** Next Task	
-	 - [ ] Battery charger plug and solar pannels
+	- [ ] Battery charger plug and solar pannels	
+	- [ ]Calculate Battery time with full charge and Half charge ____
 * REF Projects
 * Componets
 	- TEXAS INSTRUMENTS  BOOST-DRV8711  EVAL.BOARD, DRV8711 SCHRITTMOTOR-TREIBER Neu 
@@ -30,14 +31,11 @@
 			Marke BARTH
 			Herst. Teile-Nr. 0660-0600
 * Know how
-	- file:DataSheets/battery_discharge.pdf 
-	
+	- file:DataSheets/battery_discharge.pdf 	
 * REF WEB 
 https://de.farnell.com/
-
-____
 * REF Search words
 	- Solar cell
 	- Smart glass 
 	- 
-____ 
+ 
