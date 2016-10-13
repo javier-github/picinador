@@ -1,4 +1,4 @@
-update=Mi 12 Okt 2016 20:54:32 CEST
+update=Do 13 Okt 2016 19:45:17 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=Zilog
 LibName31=libraries/Common-Parts-Library-KiCad/Common-Parts-Library
+LibName32=/media/javieruser/sda2/CloudStation/Data/Documents/Development/Kicad/online/freetronics_kicad_library.git/trunk/freetronics_schematic

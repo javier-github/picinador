@@ -30,6 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:Zilog
 LIBS:Common-Parts-Library
+LIBS:freetronics_schematic
 LIBS:kicad_test_picinador-cache
 EELAYER 25 0
 EELAYER END
@@ -85,10 +86,12 @@ Wire Wire Line
 Wire Wire Line
 	6200 2600 7150 2600
 $Sheet
-S 1000 900  950  400 
+S 1250 3150 950  400 
 U 57F8A4BF
 F0 "BatteryCharger" 60
 F1 "BatteryCharger.sch" 60
+F2 "V_motor" O R 2200 3300 60 
+F3 "V_gnd" O R 2200 3450 60 
 $EndSheet
 Wire Wire Line
 	4800 1500 5300 1500
@@ -125,4 +128,15 @@ Connection ~ 5100 3400
 Connection ~ 6200 2600
 Wire Wire Line
 	5100 3400 5200 3400
+$Comp
+L SW_PUSHBUTTON SW?
+U 1 1 57FFC5F9
+P 1600 2250
+F 0 "SW?" H 1450 2360 50  0000 C CNN
+F 1 "SW_PUSHBUTTON" H 1600 2170 50  0000 C CNN
+F 2 "" H 1600 2250 60  0000 C CNN
+F 3 "" H 1600 2250 60  0000 C CNN
+	1    1600 2250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
