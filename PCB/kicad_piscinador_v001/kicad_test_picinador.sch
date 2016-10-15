@@ -30,7 +30,6 @@ LIBS:contrib
 LIBS:valves
 LIBS:Zilog
 LIBS:Common-Parts-Library
-LIBS:freetronics_schematic
 LIBS:kicad_test_picinador-cache
 EELAYER 25 0
 EELAYER END
@@ -82,16 +81,14 @@ $EndComp
 Wire Wire Line
 	5250 2750 4950 2750
 Wire Wire Line
-	5850 2600 6200 2600
-Wire Wire Line
-	6200 2600 7150 2600
+	5850 2600 7150 2600
 $Sheet
-S 1250 3150 950  400 
+S 2214 2686 950  400 
 U 57F8A4BF
 F0 "BatteryCharger" 60
 F1 "BatteryCharger.sch" 60
-F2 "V_motor" O R 2200 3300 60 
-F3 "V_gnd" O R 2200 3450 60 
+F2 "V_motor" O R 3164 2836 60 
+F3 "V_gnd" O R 3164 2986 60 
 $EndSheet
 Wire Wire Line
 	4800 1500 5300 1500

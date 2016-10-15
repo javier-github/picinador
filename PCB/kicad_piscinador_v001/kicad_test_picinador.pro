@@ -1,4 +1,4 @@
-update=Do 13 Okt 2016 19:45:17 CEST
+update=10/15/2016 7:21:14 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,13 @@ LibName29=valves
 LibName30=Zilog
 LibName31=libraries/Common-Parts-Library-KiCad/Common-Parts-Library
 LibName32=/media/javieruser/sda2/CloudStation/Data/Documents/Development/Kicad/online/freetronics_kicad_library.git/trunk/freetronics_schematic
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

@@ -8,6 +8,7 @@ ____
 	- TEXAS INSTRUMENTS  BOOST-DRV8711  EVAL.BOARD, DRV8711 SCHRITTMOTOR-TREIBER Neu 
 		-file:DataSheets/2036052.pdf Boost driver for a motor
 	- EasyDriver Stepper Motor Driver
+        - file:DataSheets/3121fa.pdf boost converter
 		- file:DataSheets/EasyDriver_v45.pdf schematic
 		- file:DataSheets/A3967-Datasheet.pdf chip data sheet
 		- Art.Nr.  SFE12779
@@ -42,3 +43,7 @@ ____
 * Development resources 
 	- https://github.com/freetronics/freetronics_kicad_library.git
 	- KiCad Librarian
+    - https://www.youtube.com/watch?v=mChTfL746Fs 
+        - klonor scripst for sure useful
+    
+    
