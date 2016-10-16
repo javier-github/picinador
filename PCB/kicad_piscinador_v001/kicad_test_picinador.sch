@@ -30,6 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:Zilog
 LIBS:Common-Parts-Library
+LIBS:freetronics_schematic
 LIBS:kicad_test_picinador-cache
 EELAYER 25 0
 EELAYER END
